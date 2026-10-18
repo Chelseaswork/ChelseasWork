@@ -1,41 +1,51 @@
-
-.TitleImage
-{
+.TitleImage {
   text-align: center;
+  
 }
 
-.navbox
-{
+.navbox ul {
+  list-style: none;
+  text-align: center;
+  background-color: black;
+  /* The background color here and the boarder color the the navbox a have to match*/
+}
+
+.navbox li{
+ display: inline-block;
+  
   
 }
 
 
-.HOMEcontent
-{
+.navbox a {
+  display: block;
+  text-decoration: none;
+  border: 1px solid black;
+  
+  
+}
+
+.HOMEcontent {
 
 }
 
 
-.HOMEImage
-{
+.HOMEImage{
   
 }
 
 
-.TwitchinfoASIDE
-{
+.TwitchinfoASIDE{
   
 }
 
 
-.TwitchinfoASIDE
-{
+.TwitchinfoASIDE{
   
 }
 
 
-.TwitchinfoBOX
-{
+.TwitchinfoBOX{
 
 }
 
