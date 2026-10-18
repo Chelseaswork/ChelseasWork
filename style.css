@@ -4,7 +4,7 @@
 }
 
 .navbox ul {
-  list-style: none;
+  list-style: none !important;
   text-align: center;
   background-color: black;
   /* The background color here and the boarder color the the navbox a have to match*/
@@ -21,8 +21,7 @@
   display: block;
   text-decoration: none;
   border: 1px solid black;
-  
-  
+ 
 }
 
 .HOMEcontent {
