@@ -2,27 +2,26 @@
   text-align: center;
   
 }
-
-.navbox ul {
+header nav ul {
   list-style: none !important;
-  text-align: center;
-  background-color: black;
-  /* The background color here and the boarder color the the navbox a have to match*/
+  text-align: center !important;
+  background-color: black !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
-.navbox li{
- display: inline-block;
-  
-  
+header nav li {
+  display: inline-block !important;
 }
 
-
-.navbox a {
-  display: block;
-  text-decoration: none;
-  border: 1px solid black;
- 
+header nav a {
+  display: inline-block !important;
+  text-decoration: none !important;
+  border: 1px solid black !important;
+  color: white !important;
+  padding: 10px 20px !important;
 }
+
 
 .HOMEcontent {
 
