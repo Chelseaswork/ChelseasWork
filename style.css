@@ -20,8 +20,8 @@ header nav a {
   display: block !important;
   text-decoration: none !important;
   border: 1px solid black !important;
-  color: white !important;
-  padding: 10px 20px !important;
+  color: black !important;
+  padding: 10px 0px !important;
   background-color: #CCCCFF !important;
   text-align: center;
   
