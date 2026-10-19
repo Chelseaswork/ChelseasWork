@@ -12,15 +12,26 @@ header nav ul {
 
 header nav li {
   display: inline-block !important;
+  width: 180 px;
+  margin: 0 5px;
 }
 
 header nav a {
-  display: inline-block !important;
+  display: block !important;
   text-decoration: none !important;
   border: 1px solid black !important;
   color: white !important;
   padding: 10px 20px !important;
   background-color: #CCCCFF !important;
+  text-align: center;
+  
+}
+
+
+.WebDescr {
+  
+
+  
 }
 
 
@@ -30,6 +41,10 @@ header nav a {
 
 
 .HOMEImage{
+  
+}
+
+.HOMEImage img {
   
 }
 
