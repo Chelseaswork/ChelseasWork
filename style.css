@@ -29,9 +29,15 @@ header nav a {
   
 }
 
+main {
+width: 100%;
+max-width: 1200px;
+margin: 0 auto;
+}
+
 
 .WebDescr {
-  
+  padding: 30px 50px 30px 50px;
 
   
 }
