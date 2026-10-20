@@ -44,20 +44,23 @@ margin: 0 auto;
 
 
 .HOMEcontent {
-
-}
-
-
-.HOMEImage{
+  display:flex;
   
 }
 
-.HOMEImage img {
+
+.HOMEImages{
+  display: 1;
+  
+}
+
+.HOMEImages img {
   
 }
 
 
 .TwitchinfoASIDE{
+ flex-shrink: 0;
   
 }
 
