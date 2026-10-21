@@ -57,6 +57,7 @@ margin: 0 auto;
 }
 
 .HOMEImages img {
+  display: block;
   width: 76px;
   height: 176px;
   background-color: grey;
