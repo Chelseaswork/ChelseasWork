@@ -76,14 +76,14 @@ margin: 0 auto;
 .TwitchinfoASIDE{
   flex-shrink: 0;
   width: 250px;
-  background-color: lightgray;
   border-left: 3px solid black;
   padding-left: 15px;
 }
 
 
 .TwitchinfoBOX{
-
+  padding: 15px;
+  background-color: lightgray;
   
 }
 
