@@ -67,7 +67,7 @@ margin: 0 auto;
   display: block !important;
   width: 176px !important;
   height: 276px !important;
-  background-color: dark-grey;
+  background-color: darkgrey;
   
 }
 
@@ -75,7 +75,7 @@ margin: 0 auto;
 .TwitchinfoASIDE{
   flex-shrink: 0;
   width: 250px;
-  background-color: light-gray;
+  background-color: lightgray;
   
 }
 
