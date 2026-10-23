@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Chelsea's Work</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+  
+<body>
+  <header>
+    <div class="TitleImage">
+    <img src="flamingtext_com-20961118.png" alt="Website Header reading Chelsea's work">
+    </div>
+        <nav class="navbox">
+          <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">Jewelry</a></li>
+            <li><a href="#products">Knitting / Crochet</a></li>
+            <li><a href="#contact">Greeting Cards</a></li>
+          </ul>
+        </nav>
+    
+  </header>
+
+  <main>
+    <div class="WebDescr">
+Description of content and purpose of the site goes here. Maybe talking about mental health struggles making it so I hop from subject to subject
+    </div>
+ 
+
+
+<div class="JEWELRYimages"> <!-- Main Div holding both left and right containers -->
+  
+  <div class="HOMEImages"> <!-- holds the verticle images -->
+    <img src="image1.jpg" alt="Image 1">
+    <img src="image2.jpg" alt="Image 2">
+    <img src="image3.jpg" alt="Image 3">
+  </div>
+
+  <!-- Right aside block  -->
+  <aside class="TwitchinfoASIDE">
+    <div class="TwitchinfoBOX">
+      
+      <form id="jewelry-form" class="jewelry-form-style">
+
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name">
+        <label for="email">Email:</label>
+        <input type="text" id="email" name="email">
+        
+
+      
+
+
+      </form>
+
+    </div>
+  </aside>
+</div>
+   </main>
+  <footer>
+    
+  </footer>
+</body>
+</html>
