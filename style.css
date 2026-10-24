@@ -108,6 +108,12 @@ margin: 0 auto;
 
 .jewelry-form-style input[type="checkbox"]{
        width: auto;
+       display: inline-block !important
+       margin-right: 5px;
   
 }
-
+.jewelry-form-style input[type="checkbox"] + label{
+       display: inline-block !important
+       margin-right: 15px;
+  
+}
