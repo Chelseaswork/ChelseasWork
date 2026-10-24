@@ -94,15 +94,20 @@ margin: 0 auto;
 
 /*CSS for Jewelry page */
 .JEWELRYimages{
-
+  display: flex !important;
+  flex-direction: row !important;
+  gap: 15px;  
 }
 
-.jewelry-form-style input{
+.jewelry-form-style input[type="text"]{
   width: 250px;
+  display: block;
+  margin-bottom: 10px;
   
 }
 
-.checkbox-question {
+.jewelry-form-style input[type="checkbox"]{
+       width: auto;
   
 }
 
