@@ -69,6 +69,12 @@ margin: 0 auto;
   gap: 15px;  
 }
 
+.Knit-and-crochet-split{
+       display: flex !important;
+  flex-direction: row !important;
+  gap: 15px; 
+}
+
 .HOMEImages img {
   display: block !important;
   width: 180px !important;
