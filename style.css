@@ -86,10 +86,8 @@ margin: 0 auto;
 
 
 .TwitchinfoASIDE{
-  flex-shrink: 0;
-  width: 300px;
-  border-left: 3px solid black;
-  padding-left: 15px;
+  flex: 0 0 250px;
+  display: block !important;     
 }
 
 
@@ -144,3 +142,8 @@ margin: 0 auto;
   border-radius: 8px;
 }
 
+
+.HOMEImages .card {
+    border: none !important;
+    box-shadow: none !important;
+}
