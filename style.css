@@ -110,7 +110,7 @@ margin: 0 auto;
 
 
 .TwitchinfoASIDE {
-       border-left: 2px solid black;
+       border-left: 2px solid black !important;
     flex: 0 0 250px;
     display: block !important;
     width: 250px;
