@@ -169,6 +169,8 @@ main {
 .image-grid{
        display: grid;
        justify-items: center;
+       justify-content: center;
+       gap: 15px;
 }
 
 
