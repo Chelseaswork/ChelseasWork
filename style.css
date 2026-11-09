@@ -167,6 +167,7 @@ main {
 }
 
 .image-grid{
+       display: grid;
        justify-items: center;
 }
 
